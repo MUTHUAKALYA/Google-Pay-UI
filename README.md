@@ -25,14 +25,26 @@ This UI challenge gave me a confident on using Vite and Tailwind CSS also includ
 
 ✨**Live Link is Here**: https://muthuakalya.github.io/Google-Pay-UI/
 <br>
+
 <br>
-![Walthrough demo](public/images/Gpay-1.PNG)
+
+![Walthrough demo](./public/images/GooglePay-HomePage-dark-theme.jpeg)
+
 <br>
-![Walthrough demo](public/images/Gpay-2.PNG)
+
+![Walthrough demo](./public/images/GooglePay-cibilscore-dark-theme.jpeg)
 <br>
-![Walthrough demo](public/images/Gpay-3.PNG)
+
+![Walthrough demo](./public/images/GooglePay-bankbalance-dark-theme.jpeg)
 <br>
-![Walthrough demo](public/images/Gpay-4.PNG)
+
+![Walthrough demo](./public/images/GooglePay-HomePage-Light-theme.jpeg)
+<br>
+
+![Walthrough demo](./public/images/GooglePay-cibilScore-light-theme.jpeg)
+<br>
+
+![Walthrough demo](./public/images/GooglePay-bankBalance-light-theme.jpeg)
 
 ## Internship
 
