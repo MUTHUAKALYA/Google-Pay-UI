@@ -59,7 +59,7 @@ Feel free to contribute to this project by "Forking" this repo, and Add a PR for
 MIT
 
 ## Acknowledgments
-Special thanks to [Shajid Shafee (GitHub)](https://github.com/mshajid), for taking the time to explain the concepts of CSS Grid layout to me. 
+Special thanks to [Mr. Shajid Shafee (GitHub)](https://github.com/mshajid), for helping me to understand grid layout .
 
 Special thanks to [Vasanth (Github)](https://github.com/vk2401) for relevant banners and assets.
 
